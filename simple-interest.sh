@@ -6,8 +6,8 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # hayder-a11y
-
+   # hayder
+   
    # Input:
    # p, principal amount
    # t, time period in years
